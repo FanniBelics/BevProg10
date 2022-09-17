@@ -12,6 +12,6 @@ Implementálj 3 tetszőleges matematikai képletet!
 pl.: pitagorasz-tétel, sinus/cosinus/tangens háromszögben, másodfukú egyenlet megoldóképlet
 
 ## III. feladat
-A H~2~O mintájára készíts egy programot, amely megadja a keletkező konyhasó és a maradék atomok mennyiségét 
-a Na és a Cl~2~ reakciójából!
-Eredeti képlet: * 2Na + Cl~2~ = 2 NaCl *
+A H<sub>2</sub>O mintájára készíts egy programot, amely megadja a keletkező konyhasó és a maradék atomok mennyiségét 
+a Na és a Cl<sub>2</sub> reakciójából!
+Eredeti képlet: **2Na + Cl<sub>2</sub> = 2 NaCl**
