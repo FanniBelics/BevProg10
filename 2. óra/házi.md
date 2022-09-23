@@ -5,7 +5,7 @@ Kérd be egy felhasználó életkorát, és döntsd el hogy:
 1. Fogyaszthat-e legálisan alkoholt Amerikában? (21 év)
 2. Vásárolhat-e dohányterméket Magyarországon? (18 év)
 3. Szerezhet-e jogosítványt? (16 év)
-4. Megnézheti-e egyedül a Shrek 2-t?
+4. Megnézheti-e egyedül a Shrek 2-t (12 év)?
 
 ## II. feladat
 Implementálj 3 tetszőleges matematikai képletet!
